@@ -28,3 +28,12 @@ services performance, estimating process expected time etc.
     - Contains a P2P network
     - Has a lot of possible improvments but, that we know about, but is builded
     as a pilot blockchain.
+    
+## UI flow
+
+Open platform that anyone can use to check on their application status
+![alt text](https://github.com/anstylian/CleverGov-2022/blob/main/image1.png)
+
+
+Application status log
+![alt text](https://github.com/anstylian/CleverGov-2022/blob/main/image2.png)
